@@ -48,7 +48,7 @@ Extensions are Python scripts that extend Downloady's functionalities.
 ### Installing an Extension
 To use an extension, pass its path to the `Downloady` command:
 ```sh
-Downloady -e "C:\Users\devid\Downloads\Math Calc\extensions\ytube.py"
+Downloady -e extensions\ytube.py
 ```
 **Note:** If the path contains spaces, enclose it in quotes.
 
